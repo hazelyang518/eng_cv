@@ -4,7 +4,7 @@
 title: "Hazel's CV"
 lang: "en" #语言设置 zh表示中文 en 表示英语
 name: "Hazel Yang"
-jobtitle: "Data Analyst/Data Product" #可空不显示
+jobtitle: "Data Analyst/Data Product/Business Analyst" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 
 #联系方式
@@ -32,16 +32,15 @@ main: #简历主要内容，
   - title: University of Virginia
     # duration:
     sub: Sep 2019 - July 2020
-    detail: Master of Science (Global Commerce)
+    detail: Master of Science (Global Commerce)  <br>  &nbsp &nbsp
             Business Analytics
             
   - title: Sun Yat-sen University
     # duration: 
     sub: Sep 2018 - July 2021
-    detail: Master of Economics (International Business)
+    detail: Master of Economics (International Business)  <br>  &nbsp &nbsp
             
             
-
   - title: Guangdong University of Foreign Studies
     # duration: 
     sub: Sep 2014 - July 2018
