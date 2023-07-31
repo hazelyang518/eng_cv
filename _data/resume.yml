@@ -45,7 +45,7 @@ main: #简历主要内容，
     detail: Bachelor of Economics
     
 - type: SKILLS
-  # name: "技术栈和编程语言"
+  # name: "SKILL-"
   content:
   - title: 编程语言
     items: #itmems 可以小块的方式显示
