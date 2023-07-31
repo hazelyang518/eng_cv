@@ -1,10 +1,10 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: "杨诗蕙简历"
-lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "杨诗蕙"
-jobtitle: "数据分析/数据产品" #可空不显示
+title: "Hazel's CV"
+lang: "en" #语言设置 zh表示中文 en 表示英语
+name: "Hazel Yang"
+jobtitle: "Data Analyst/Data Product" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 
 #联系方式
@@ -26,23 +26,25 @@ contact: #联系方式连接等3~5行
 
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
-- type: education #类别为ID
-  name: 教育 #显示名称，空则使用type
+- type: EDUCATION #类别为ID
+  name:  #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: 中山大学
-    # duration: 
-    sub: 2018年9月 - 2021年7月
-    detail: 国际商务硕士
-  - title: University of Virginia（弗吉尼亚大学）
+  - title: University of Virginia
     # duration:
-    sub: 2019年9月 - 2020年7月
-    detail: Master of Global Commerce 全球商务硕士
-  - title: 广东外语外贸大学
-    # duration: 
-    sub: 2014年9月 - 2018年6月
-    detail: 经济学学士
+    sub: Sep 2019 - July 2020
+    detail: Master of Global Commerce 
     
-- type: 技能
+  - title: Sun Yat-sen University
+    # duration: 
+    sub: Sep 2018 - July 2021
+    detail: Master of International Business
+
+  - title: Guangdong University of Foreign Studies
+    # duration: 
+    sub: Sep 2014 - July 2018
+    detail: Bachelor of Economics
+    
+- type: SKILLS
   # name: "技术栈和编程语言"
   content:
   - title: 编程语言
