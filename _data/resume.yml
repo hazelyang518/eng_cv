@@ -68,7 +68,7 @@ main: #简历主要内容，
              6. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders. <br>  &nbsp &nbsp
 
 - type: WORK EXPERIENCE
-  name: 
+  # name: 
   content:
   - title: Tencent - Data Scientist
     sub: Data Platform - User-profile 
