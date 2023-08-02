@@ -109,7 +109,14 @@ main: #简历主要内容，
             4.画像评测：在准确率评估项目中，创新性搭建可复用的自动化画像测评流程，实现问卷自动生成与回收结果，产出画像准确率分析报告，耗时从1个月+降低到3日内完成，测评效率大幅度提升  <br>  &nbsp &nbsp 
             5.画像提升：负责新闻业务兴趣画像置信度指标测算，对置信度低的画像进行原因挖掘，推动画像算法策略调优；结合已有数据积累建立预估模型，为游戏数据表现以及市场分析提供结果预测  <br>  &nbsp &nbsp 
             6.实验配置：产出微信腾讯新闻插件实验人群，配置实验人群包，跟进回收并分析人群实验效果；沉默用户拉起实验中底层页人均消费时长显著正向，策略已推全
-    sub: 10个月
+
+            #1. User-profile mining: utilized SQL/Python to mine various core labels, such as user application preference labels and audience attribute labels, for audience targeting scenarios, resulting in the creation of 1000+ accumulated user groups and 20+ positive scenarios, covering multiple businesses including PCG and IEG.
+            #2. Label development: established and maintained the user-profile label ETL pipeline to ensure data integrity, accuracy, and consistency; developed labels according to data warehouse standards, configured alerts, and improved the label production efficiency from t+3 to t+1.
+            #3. Metric monitoring: configured user-profile coverage monitoring for various news business scenarios, covering product forms such as news main app, WeChat news plugin, and Hand Q news plugin, including 100+ labels; utilized ClickHouse to calculate user-profile coverage, reducing task configuration difficulty and achieving efficient operation.
+            #4. Profile evaluation: in the accuracy evaluation project, innovatively built a reusable automated profile evaluation process, realized automatic questionnaire generation and result collection, produced profile accuracy analysis reports, and reduced the time required from more than one month to within three days, significantly improving the evaluation efficiency.
+            #5. Profile enhancement: responsible for calculating the confidence index of interest profiles for news business, identifying reasons for low confidence, and promoting profile algorithm strategy optimization; established prediction models based on accumulated data to provide result forecasts for game data performance and market analysis.
+            #6. Experiment configuration: produced experimental user groups for WeChat Tencent News plugin, configured experimental user group packages, followed up on the collection and analyzed the experimental effects of user groups; significantly improved the average consumption time per person for low-engagement users in the bottom layer of the experiment, and the strategy has been fully implemented.
+    sub: 12个月
     
   - title: 画像平台数据运营
     duration: 功能开发&运营负责人
@@ -122,7 +129,7 @@ main: #简历主要内容，
             2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
             3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行根因分析与修复，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
             4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+ <br>  &nbsp &nbsp  
-    sub: 10个月
+    sub: 12个月
 
   # - title: Project Name
   #   summary: Projects' introduction or summary
