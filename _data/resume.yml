@@ -60,19 +60,19 @@ main: #简历主要内容，
     - Spark
     - Data visualization 
   - title: ABOUT
-    summary: &nbsp 1. Proven experience as a Data Analyst in a high-growth scale-up business. <br>  &nbsp &nbsp
+    summary: &nbsp &nbsp 1. Proven experience as a Data Analyst in a high-growth scale-up business. <br>  &nbsp &nbsp
              2. Experience in improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              3. Solid understanding of data analysis techniques, statistical concepts, and business intelligence tools. <br>  &nbsp &nbsp
              4. Data engineering/pipeline creation experience (i.e. hive, spark) <br>  &nbsp &nbsp
-             4. Advanced experience with dashboarding/data visualization (i.e. Tableau, Power BI). <br>  &nbsp &nbsp
-             5. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders. <br>  &nbsp &nbsp
+             5. Advanced experience with dashboarding/data visualization (i.e. Tableau, Power BI). <br>  &nbsp &nbsp
+             6. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders. <br>  &nbsp &nbsp
 
 - type: WORK EXPERIENCE
   name: 
   content:
   - title: Tencent - Data Scientist
     sub: Data Platform - User-profile 
-    duration: "July 2017 - Present"
+    duration: "May 2021 - Present"
     tags:
     # - 画像挖掘
     # - 标签开发
@@ -81,7 +81,8 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的关键运营指标体系和监控体系；<br>  &nbsp &nbsp  平台数据运营：解决用户在使用画像平台过程中遇到的数据问题，为业务提供可靠的画像服务
+    detail: &nbsp &nbsp Business Data Science : Responsible for improving the coverage and accuracy of user-profile for Tencent News Product (700 million+), establishing key operational indicators and metrics systems for user-profile. <br>  &nbsp &nbsp 
+            Platform Data Operations: Resolving data issues encountered by users when using the user-profile platform, providing reliable service for users from all department. 
     open: open
     #可以设置open默认展开
   # - title: Job Title
