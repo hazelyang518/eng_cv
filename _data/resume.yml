@@ -150,10 +150,14 @@ main: #简历主要内容，
     - Spark
     - Data analysis
     - Data warehousing
-    detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链	路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
-            2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
-            3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行根因分析与修复，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
-            4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+ <br>  &nbsp &nbsp  
+    # detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链	路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
+    #         2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
+    #         3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行根因分析与修复，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
+    #         4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+ <br> 
+    detail: 1. Data development -  Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
+            2. Feature development - Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
+            3. Operational owner - As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs.<br>  &nbsp &nbsp  
+            4. User-profile helper  - Wrote users guidebooks which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000.
     sub: 
   # - title: Project Name
   #   summary: Projects' introduction or summary
@@ -163,13 +167,13 @@ main: #简历主要内容，
    #可继续添加更多内容
 #others 其他简略内容(列表)
 others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
+- type: OTHERS #ID可以为空
+  name: 
   content: #选择需要的格式
   - 
   - title: "AWARDS"
     text: "连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员，腾讯开源协同奖-数据资产管理(河图) Oteam"
-  - title: "认证:"
+  - title: "IDENTIFICATION"
     text: "BG内数据科学通道培养计划课程认证"
   #   items: #单行列表
   #   - 睡觉
