@@ -32,7 +32,13 @@ main: #简历主要内容，
     detail: Master of Science (Global Commerce)  <br>  &nbsp &nbsp
             Business Analytics
             
-  - title: Sun Yat-sen University
+  - title: Esade
+    # duration:
+    sub: Jan 2020 - July 2020
+    detail: Master of Strategic Management  <br>  &nbsp &nbsp
+            Business Analytics
+            
+  - title: Sun Yat-Sen University
     # duration: 
     sub: Sep 2018 - July 2021
     detail: Master of Economics (International Business)  <br>  &nbsp &nbsp
@@ -173,7 +179,7 @@ others: #其他列表显示
   - 
   - title: "AWARDS"
     text: "连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员，腾讯开源协同奖-数据资产管理(河图) Oteam"
-  - title: "IDENTIFICATION"
+  - title: "CERTIFICATIONS"
     text: "BG内数据科学通道培养计划课程认证"
   #   items: #单行列表
   #   - 睡觉
