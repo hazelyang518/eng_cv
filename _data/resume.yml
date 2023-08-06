@@ -53,8 +53,7 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - SQL
     - Python
-    - Hive/Presto
-    - Spark
+    - Hive/Presto/Spark
     - Data visualization
   # - title: Personl 
   #   summary: 1. 有画像业务的完整项目经验，有独立分析和解决数据问题的能力，能针对画像场景进行有效数据挖掘并形成策略
