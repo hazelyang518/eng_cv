@@ -94,32 +94,32 @@ main: #简历主要内容，
     open: open
     #可以设置open默认展开
 
-  - title: JD.com - Data Product
-    sub: AI department
-    duration: "June 2019 - Aug 2019"
-    tags:
-    # - 画像挖掘
-    # - 标签开发
-    # - 指标监控
-    # - 画像评测
-    # - 画像提升
-    # - 实验配置
-    # summary: 职务或者工作总结(自动折叠)
-    detail:  Organize conversations with customers to analyse, structure and document requirements. Design a pharmaceutical knowledge graph product, draw out functional & technical requirements documents.
-    #可以设置open默认展开
+  # - title: JD.com - Data Product
+  #   sub: AI department
+  #   duration: "June 2019 - Aug 2019"
+  #   tags:
+  #   # - 画像挖掘
+  #   # - 标签开发
+  #   # - 指标监控
+  #   # - 画像评测
+  #   # - 画像提升
+  #   # - 实验配置
+  #   # summary: 职务或者工作总结(自动折叠)
+  #   detail:  Organize conversations with customers to analyse, structure and document requirements. Design a pharmaceutical knowledge graph product, draw out functional & technical requirements documents.
+  #   #可以设置open默认展开
 
-  - title: Morningstar - Financial Data Analyst
-    sub: Global Fund department
-    duration: "June 2018 - Aug 2018"
-    tags:
-    # - 画像挖掘
-    # - 标签开发
-    # - 指标监控
-    # - 画像评测
-    # - 画像提升
-    # - 实验配置
-    # summary: 职务或者工作总结(自动折叠)
-    detail: Build rich dashboards to support Data Quality Checks(interactive/automated/visual) that improve the interpretability of predictive models and underlying data.
+  # - title: Morningstar - Financial Data Analyst
+  #   sub: Global Fund department
+  #   duration: "June 2018 - Aug 2018"
+  #   tags:
+  #   # - 画像挖掘
+  #   # - 标签开发
+  #   # - 指标监控
+  #   # - 画像评测
+  #   # - 画像提升
+  #   # - 实验配置
+  #   # summary: 职务或者工作总结(自动折叠)
+  #   detail: Build rich dashboards to support Data Quality Checks(interactive/automated/visual) that improve the interpretability of predictive models and underlying data.
     
     open: open
     #可以设置open默认展开
