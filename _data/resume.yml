@@ -32,11 +32,11 @@ main: #简历主要内容，
     detail: Master of Science (Global Commerce)  <br>  &nbsp &nbsp
             Business Analytics
             
-  - title: Esade
-    # duration:
-    sub: Jan 2020 - July 2020
-    detail: Master of Strategic Management  <br>  &nbsp &nbsp
-            Business Analytics
+  # - title: Esade
+  #   # duration:
+  #   sub: Jan 2020 - July 2020
+  #   detail: Master of Strategic Management  <br>  &nbsp &nbsp
+  #           Business Analytics
             
   - title: Sun Yat-Sen University
     # duration: 
