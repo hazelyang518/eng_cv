@@ -72,7 +72,7 @@ main: #简历主要内容，
     detail: &nbsp 1. Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
              2. Solid understanding of data analysis models (i.e. linear/logistic regression, SHAP value, decision trees, causal analysis). <br>  &nbsp &nbsp
              3. Advanced experience with data visualization (i.e. Tableau, Power BI). Data engineering experience (i.e. hive, spark).   <br>  &nbsp &nbsp
-             4. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders. <br>  &nbsp &nbsp
+             4. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
 
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              
@@ -90,8 +90,8 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Scientist - Responsible for improving the coverage and accuracy of Tencent news APP, establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
-            Data Engineer -  Resolved data issues encountered by users when using the user-profile platform and provided reliable service for the internal users.
+    detail: Data Scientist - Responsible for improving the coverage and accuracy of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
+            Data Engineer -  Resolved data issues encountered by users when using the user-profile platform.
     open: open
     #可以设置open默认展开
 
@@ -142,12 +142,12 @@ main: #简历主要内容，
     #         5.画像提升：负责新闻业务兴趣画像置信度指标测算，对置信度低的画像进行原因挖掘，推动画像算法策略调优；结合已有数据积累建立预估模型，为游戏数据表现以及市场分析提供结果预测  <br>  &nbsp &nbsp 
     #         6.实验配置：产出微信腾讯新闻插件实验人群，配置实验人群包，跟进回收并分析人群实验效果；沉默用户拉起实验中底层页人均消费时长显著正向，策略已推全
     
-    detail: 1.User-profile datamining -  Using SQL/Python to conduct data mining and produce various user-profile, such as users application preference. <br>  &nbsp &nbsp 
-            2.User-profile datawarehousing - Established and maintained user-profile ETL pipelines to ensure data integrity, accuracy, and consistency. Developed user-profile according to data warehouse standards and improved data efficiency from t+3 to t+1.<br>  &nbsp &nbsp 
-            3.Dashboards developing - Developed user-profile coverage monitoring dashboards including 100+ labels. Used ClickHouse to calculate user-profile coverage and reduce task configuration difficulty so as to achieve efficiency.<br>  &nbsp &nbsp 
-            4.User research - Built a reusable automated user-profile evaluation program, which can automatically collect questionnaires and generate result, reducing time from over one month to within three days, greatly improving efficiency.<br>  &nbsp &nbsp 
-            5.User-profile improving - Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Established prediction models to provide predictions for index performance and market analysis.<br>  &nbsp &nbsp 
-            6.A/Btesting conducting - Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. Collaborate with stakeholders across departments to improve key performance indicators (i.e. time on page, click rate).
+    detail: 1. Using SQL/Python to conduct data mining and produce various user-profile, such as users application preference. <br>  &nbsp &nbsp 
+            2. Established and maintained user-profile ETL pipelines to ensure data integrity, accuracy, and consistency. Developed user-profile according to data warehouse standards and improved data efficiency from t+3 to t+1.<br>  &nbsp &nbsp 
+            3. Developed user-profile coverage monitoring dashboards including 100+ labels. Used ClickHouse to calculate user-profile coverage and reduce task configuration difficulty so as to achieve efficiency.<br>  &nbsp &nbsp 
+            4. Built a reusable automated user-profile evaluation program, which can automatically collect questionnaires and generate result, reducing time from over one month to within three days, greatly improving efficiency.<br>  &nbsp &nbsp 
+            5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Established prediction models to provide predictions for index performance and market analysis.<br>  &nbsp &nbsp 
+            6. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. Collaborate with stakeholders across departments to improve key performance indicators (i.e. time on page, click rate).
     sub: 
     
   - title: Data Engineer
@@ -161,10 +161,10 @@ main: #简历主要内容，
     #         2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
     #         3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行根因分析与修复，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
     #         4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+ <br> 
-    detail: 1. Data development -  Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
-            2. Feature development - Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
-            3. Operational owner - As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs.<br>  &nbsp &nbsp  
-            4. User-profile helper  - Wrote users guidebooks which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000.
+    detail: 1. Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
+            2. Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
+            3. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs.<br>  &nbsp &nbsp  
+            4. Wrote users guidebooks which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000.
     sub: 
   # - title: Project Name
   #   summary: Projects' introduction or summary
