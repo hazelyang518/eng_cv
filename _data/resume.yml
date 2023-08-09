@@ -90,7 +90,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Scientist - Responsible for improving the coverage and accuracy of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
+    detail: Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
             Data Engineer -  Resolved data issues encountered by users when using the user-profile platform.
     open: open
     #可以设置open默认展开
@@ -129,7 +129,7 @@ main: #简历主要内容，
   name: 
   content:
   - title: Data Scientist
-    duration: "Developer& Data Analyst"
+    duration: 
     tags:
     - Hive
     - Spark
@@ -143,15 +143,15 @@ main: #简历主要内容，
     #         6.实验配置：产出微信腾讯新闻插件实验人群，配置实验人群包，跟进回收并分析人群实验效果；沉默用户拉起实验中底层页人均消费时长显著正向，策略已推全
     
     detail: 1. Using SQL/Python to conduct data mining and produce various user-profile, such as users application preference. <br>  &nbsp &nbsp 
-            2. Established and maintained user-profile ETL pipelines to ensure data integrity, accuracy, and consistency. Developed user-profile according to data warehouse standards and improved data efficiency from t+3 to t+1.<br>  &nbsp &nbsp 
-            3. Developed user-profile coverage monitoring dashboards including 100+ labels. Used ClickHouse to calculate user-profile coverage and reduce task configuration difficulty so as to achieve efficiency.<br>  &nbsp &nbsp 
+            2. Established and maintained user-profile ETL pipelines to ensure data integrity, accuracy, and consistency. Improved data efficiency from t+3 to t+1. <br>  &nbsp &nbsp 
+            3. Developed user-profile coverage dashboards with 100+ labels. Used ClickHouse to achieve efficiency.<br>  &nbsp &nbsp 
             4. Built a reusable automated user-profile evaluation program, which can automatically collect questionnaires and generate result, reducing time from over one month to within three days, greatly improving efficiency.<br>  &nbsp &nbsp 
             5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Established prediction models to provide predictions for index performance and market analysis.<br>  &nbsp &nbsp 
             6. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. Collaborate with stakeholders across departments to improve key performance indicators (i.e. time on page, click rate).
     sub: 
     
   - title: Data Engineer
-    duration: Developer& Operational owner
+    duration: 
     tags:
     - Hive
     - Spark
