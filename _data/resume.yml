@@ -3,7 +3,7 @@
 title: "Hazel's CV"
 lang: "en" #语言设置 zh表示中文 en 表示英语
 name: "Hazel Yang"
-jobtitle: "Data Analyst/Data Engineer/Business Analyst" #可空不显示
+jobtitle: "Data Analyst" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
@@ -69,10 +69,10 @@ main: #简历主要内容，
   #            5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验
   #   - Data visualization 
   - title: Highlights 
-    detail: &nbsp 1. Proven experience as a Data Analyst in a high-growth scale-up business. Experience in improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
+    detail: &nbsp 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              2. Mastered various data analysis models (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
              3. Solid understanding of data analysis techniques (i.e. linear regression, SHAP value, logistic regression,decision trees, and the framework of causal analysis). <br>  &nbsp &nbsp
-             4. Data engineering/pipeline creation experience (i.e. hive, spark).  Advanced experience with dashboarding/data visualization (i.e. Tableau, Power BI).  <br>  &nbsp &nbsp
+             4. Advanced experience with dashboarding/data visualization (i.e. Tableau, Power BI). Data engineering/pipeline creation experience (i.e. hive, spark).   <br>  &nbsp &nbsp
              5. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders. <br>  &nbsp &nbsp
 
 - type: WORK EXPERIENCE
