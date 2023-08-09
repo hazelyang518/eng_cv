@@ -69,9 +69,9 @@ main: #简历主要内容，
   #            5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验
   #   - Data visualization 
   - title: Highlights 
-    detail: &nbsp 1. Mastered various data analysis models (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
-             2. Solid understanding of data analysis techniques (i.e. linear/logistic regression, SHAP value, decision trees, causal analysis). <br>  &nbsp &nbsp
-             3. Advanced experience with data visualization (i.e. Tableau, Power BI). Data engineering creation experience (i.e. hive, spark).   <br>  &nbsp &nbsp
+    detail: &nbsp 1. Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
+             2. Solid understanding of data analysis models (i.e. linear/logistic regression, SHAP value, decision trees, causal analysis). <br>  &nbsp &nbsp
+             3. Advanced experience with data visualization (i.e. Tableau, Power BI). Data engineering experience (i.e. hive, spark).   <br>  &nbsp &nbsp
              4. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders. <br>  &nbsp &nbsp
 
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
