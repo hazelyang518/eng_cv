@@ -69,9 +69,10 @@ main: #简历主要内容，
   #            5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验
   #   - Data visualization 
   - title: Highlights 
-    detail: &nbsp 1. Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
+    detail: &nbsp 1. Mastered various big data tools. (i.e. Mapreduce, Spark, HDFS, Hive, Airflow, Databricks). Hands-on Data engineering experience <br>  &nbsp &nbsp
+             #  Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
              2. Solid understanding of data analysis models (i.e. linear/logistic regression, SHAP value, decision trees, causal analysis). <br>  &nbsp &nbsp
-             3. Advanced experience with data visualization (i.e. Tableau, Power BI). Data engineering experience (i.e. hive, spark).   <br>  &nbsp &nbsp
+             3. Advanced experience with data visualization (i.e. Tableau, Power BI).  <br>  &nbsp &nbsp
              4. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
 
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
@@ -79,7 +80,7 @@ main: #简历主要内容，
 - type: WORK EXPERIENCE
   name: 
   content:
-  - title: Tencent - Data Scientist
+  - title: Tencent - Data Scientist/ Data Engineer
     sub: Data Platform - User-profile 
     duration: "July 2021 - Present"
     tags:
@@ -90,8 +91,8 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
-            Data Engineer -  Resolved data issues encountered by users when using the user-profile data platform.
+    detail: Data Engineer -  Resolved data issues encountered by users when using the user-profile data platform.
+            Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
     open: open
     #可以设置open默认展开
 
@@ -128,7 +129,28 @@ main: #简历主要内容，
 - type: PROJECTS
   name: 
   content:
-  - title: Data Scientist
+
+    
+  - title: Data Engineer
+    duration: 
+    tags:
+    - ETL/ELT in Python
+    - Data governance
+    - CI/CD, Git
+    - Data warehousing
+    # detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链	路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
+    #         2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
+    #         3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行根因分析与修复，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
+    #         4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+ <br> 
+    detail: 1. Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
+            2. Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
+            3. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
+            4. Promote the data platform by sharing best practices within organization. Wrote users guidebooks for data platform which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000. <br>  &nbsp &nbsp  
+            5. Defining meta-data standards for user-profile platform. Eusured the quality of data production and provide high standard user-profile service. <br>  &nbsp &nbsp  
+            6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
+    sub: 
+
+   - title: Data Scientist
     duration: 
     tags:
     - Hive
@@ -151,24 +173,6 @@ main: #简历主要内容，
             6. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. Collaborate with stakeholders across departments to improve key performance indicators (i.e. time on page, click rate).
     sub: 
     
-  - title: Data Engineer
-    duration: 
-    tags:
-    - ETL/ELT in Python
-    - Data governance
-    - CI/CD, Git
-    - Data warehousing
-    # detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链	路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
-    #         2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
-    #         3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行根因分析与修复，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
-    #         4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+ <br> 
-    detail: 1. Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
-            2. Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
-            3. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs.<br>  &nbsp &nbsp  
-            4. Promote the data platform by sharing best practices within organization. Wrote users guidebooks for data platform which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000.
-            5. Defining meta-data standards for user-profile platform. Eusured the quality of data production and provide high standard user-profile service.
-            6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
-    sub: 
   # - title: Project Name
   #   summary: Projects' introduction or summary
   #   detail:
