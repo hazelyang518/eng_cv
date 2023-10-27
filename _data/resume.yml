@@ -91,8 +91,8 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Engineer -  Resolved data issues encountered by users when using the user-profile data platform.
-            Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
+    detail: Data Engineer -  Resolved data issues encountered by users when using the user-profile data platform. <br>  &nbsp &nbsp
+            Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. 
     open: open
     #可以设置open默认展开
 
