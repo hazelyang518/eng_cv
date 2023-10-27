@@ -129,8 +129,6 @@ main: #简历主要内容，
 - type: PROJECTS
   name: 
   content:
-
-    
   - title: Data Engineer
     duration: 
     tags:
