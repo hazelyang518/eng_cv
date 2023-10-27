@@ -3,15 +3,15 @@
 title: "Hazel's CV"
 lang: "en" #语言设置 zh表示中文 en 表示英语
 name: "Hazel Yang"
-jobtitle: "Data Analyst" #可空不显示
+jobtitle: "Data Engineer/ Data Analyst" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "hazel.yang518@gmail.com" #文本内容
   href: 'mailto:hazel.yang518@gmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-# - text: "+86 18826101678"
-  icon: 'icons/phone.svg'
+  # - text: "+86 18826101678"
+  # icon: 'icons/phone.svg'
   # - text: "your-website.com"
   #  href: 'http://your-website.com'
   #  icon: 'icons/web.svg'
@@ -69,7 +69,7 @@ main: #简历主要内容，
   #            5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验
   #   - Data visualization 
   - title: Highlights 
-    detail: &nbsp 1. Mastered various big data tools. (i.e. Mapreduce, Spark, HDFS, Hive, Airflow, Databricks). Hands-on Data engineering experience <br>  &nbsp &nbsp
+    detail: &nbsp 1. Mastered various big data tools. (i.e. Mapreduce, Spark, HDFS, Hive, Airflow, Databricks). Hands-on Data engineering experience. <br>  &nbsp &nbsp
              2. Solid understanding of data analysis models (i.e. linear/logistic regression, SHAP value, decision trees, causal analysis). <br>  &nbsp &nbsp
              3. Advanced experience with data visualization (i.e. Tableau, Power BI).  <br>  &nbsp &nbsp
              4. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
@@ -148,7 +148,7 @@ main: #简历主要内容，
             6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
     sub: 
 
-   - title: Data Scientist
+  - title: Data Scientist
     duration: 
     tags:
     - Hive
