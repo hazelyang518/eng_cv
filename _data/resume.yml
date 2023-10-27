@@ -30,7 +30,7 @@ main: #简历主要内容，
     # duration:
     sub: Sep 2018 - July 2021
     detail: Master of Economics (International Business)  <br>  &nbsp &nbsp
-            Business Analytics, International Economics
+            Business Analytics, International Economics, SPSS, Statistics, Game Theory, Economics and Computation
             
   # - title: Esade
   #   # duration:
@@ -91,7 +91,7 @@ main: #简历主要内容，
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
     detail: Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
-            Data Engineer -  Resolved data issues encountered by users when using the user-profile platform.
+            Data Engineer -  Resolved data issues encountered by users when using the user-profile data platform.
     open: open
     #可以设置open默认展开
 
@@ -133,6 +133,7 @@ main: #简历主要内容，
     tags:
     - Hive
     - Spark
+    - Data analysis
     - UX research
     - A/B testing
     # detail: 1.画像挖掘：使用SQL/Python挖掘各类核心标签，如用户应用偏好标签、人群属性标签，用于人群投放场景，标签累计创建人群1000+，产生20+正向场景，覆盖PCG、IEG等BG的多个业务 <br>  &nbsp &nbsp 
@@ -146,16 +147,16 @@ main: #简历主要内容，
             2. Established and maintained user-profile ETL pipelines to ensure data integrity, accuracy, and consistency. Improved data efficiency from t+3 to t+1. <br>  &nbsp &nbsp 
             3. Developed user-profile coverage dashboards with 100+ labels. Used ClickHouse to achieve efficiency.<br>  &nbsp &nbsp 
             4. Built a reusable automated user-profile evaluation program, which can automatically collect questionnaires and generate result, reducing time from over one month to within three days, greatly improving efficiency.<br>  &nbsp &nbsp 
-            5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Established prediction models to provide predictions for index performance and market analysis.<br>  &nbsp &nbsp 
+            5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. <br>  &nbsp &nbsp 
             6. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. Collaborate with stakeholders across departments to improve key performance indicators (i.e. time on page, click rate).
     sub: 
     
   - title: Data Engineer
     duration: 
     tags:
-    - Hive
-    - Spark
-    - Data analysis
+    - ETL/ELT in Python
+    - Data governance
+    - CI/CD, Git
     - Data warehousing
     # detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链	路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
     #         2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
@@ -164,7 +165,9 @@ main: #简历主要内容，
     detail: 1. Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
             2. Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
             3. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs.<br>  &nbsp &nbsp  
-            4. Wrote users guidebooks which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000.
+            4. Promote the data platform by sharing best practices within organization. Wrote users guidebooks for data platform which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000.
+            5. Defining meta-data standards for user-profile platform. Eusured the quality of data production and provide high standard user-profile service.
+            6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
     sub: 
   # - title: Project Name
   #   summary: Projects' introduction or summary
@@ -179,9 +182,9 @@ others: #其他列表显示
   content: #选择需要的格式
   - 
   - title: "AWARDS"
-    text: "连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员，腾讯开源协同奖-数据资产管理(河图) Oteam"
-  - title: "CERTIFICATIONS"
-    text: "BG内数据科学通道培养计划课程认证"
+    text: "Outstanding Employees(5% of all)，The co-authors of Data Standards For Data Sharing"
+  # - title: "CERTIFICATIONS"
+  #   text: "Data "
   #   items: #单行列表
   #   - 睡觉
   #   - 吃饭
