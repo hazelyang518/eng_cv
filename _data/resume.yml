@@ -3,7 +3,7 @@
 title: "Hazel's CV"
 lang: "en" #语言设置 zh表示中文 en 表示英语
 name: "Hazel Yang"
-jobtitle: "Data Engineer/ Data Analyst" #可空不显示
+jobtitle: "Data Engineer/ Data Scientist" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
@@ -59,7 +59,7 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - SQL
     - Python
-    - Hive/Presto/Spark
+    - Hive/Spark/Presto
     - Data visualization
   # - title: Personl 
   #   summary: 1. 有画像业务的完整项目经验，有独立分析和解决数据问题的能力，能针对画像场景进行有效数据挖掘并形成策略
