@@ -69,10 +69,12 @@ main: #简历主要内容，
   #            5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验
   #   - Data visualization 
   - title: Highlights 
-    detail: &nbsp 1. Mastered various big data tools. (i.e. Mapreduce, Spark, HDFS, Hive, Airflow, Databricks). Hands-on Data engineering experience. <br>  &nbsp &nbsp
+    detail: &nbsp 
+             1. Proficient in diverse data analysis methodologies (i.e. Retention analysis, Funnel analysis, RFM model, and clustering techniques). <br>  &nbsp &nbsp
              2. Solid understanding of data analysis models (i.e. linear/logistic regression, SHAP value, decision trees, causal analysis). <br>  &nbsp &nbsp
-             3. Advanced experience with data visualization (i.e. Tableau, Power BI).  <br>  &nbsp &nbsp
-             4. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
+             3. Mastered various big data tools. (i.e. Mapreduce, Spark, HDFS, Hive, Airflow, Databricks). Hands-on Data engineering experience. <br>  &nbsp &nbsp
+             4. Advanced experience with data visualization (i.e. Tableau, Power BI).  <br>  &nbsp &nbsp
+             5. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
 
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              #  Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
