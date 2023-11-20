@@ -148,7 +148,7 @@ main: #简历主要内容，
     #         6.实验配置：产出微信腾讯新闻插件实验人群，配置实验人群包，跟进回收并分析人群实验效果；沉默用户拉起实验中底层页人均消费时长显著正向，策略已推全
     
     detail: 1. Using SQL/Python to conduct data mining and produce various user-profile, such as users application preference. <br>  &nbsp &nbsp 
-            2. Established and maintained unified ID-mapping ETL pipelines to ensure data accuracy. Proactively promoted Uni-ID to 30+ business partners. Achieved 0 to 200+ billion/day request for Uni-ID service. <br>  &nbsp &nbsp 
+            2. Established and maintained unified ID-mapping ETL pipelines to ensure data accuracy. Proactively promoted Uni-ID to 30+ business partners. Achieved 0 to 20+ billion/day request for Uni-ID service. <br>  &nbsp &nbsp 
             3. Developed user-profile coverage dashboards with 100+ labels. Used ClickHouse to achieve efficiency.<br>  &nbsp &nbsp 
             4. Built a reusable automated user-profile evaluation program, which can automatically collect questionnaires and generate result, reducing time from over one month to within three days, greatly improving efficiency.<br>  &nbsp &nbsp 
             5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Sent 100w+ active users personal questionnaire to collect users feedback and analyze result. <br>  &nbsp &nbsp 
