@@ -169,7 +169,7 @@ main: #简历主要内容，
     detail: 1. Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
             2. Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
             3. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
-            4. Promote the data platform by sharing best practices within organization with audience over 200+. Wrote users guidebooks for data platform which compiled over 30 documents, with PV visits exceeding 50,000 and UV exceeding 10,000. <br>  &nbsp &nbsp  
+            4. Promote the data platform by sharing best practices within organization with audience over 1000+. Wrote documentation for data platform , with PV visits exceeding 50,000 and UV exceeding 10,000. <br>  &nbsp &nbsp  
             5. Defining meta-data standards for user-profile platform. Eusured the quality of data production and provide high standard user-profile service. <br>  &nbsp &nbsp  
             6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
     sub:     
