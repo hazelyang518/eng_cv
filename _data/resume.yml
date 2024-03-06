@@ -154,8 +154,8 @@ main: #简历主要内容，
             6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
     sub: 
   
-  - title: 
-    duration: Data Scientist
+  - title: Data Scientist
+    duration: 
     tags:
     - Hive
     - Spark
