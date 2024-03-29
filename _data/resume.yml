@@ -79,8 +79,8 @@ main: #简历主要内容，
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              #  Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
              
-- type: WORK EXPERIENCE
-  name: 
+- type:  JOB HISTORY
+  # name: WORK EXPERIENCE
   content:
   - title: Tencent - Data Scientist/ Data Engineer
     sub: Data Platform - User-profile 
