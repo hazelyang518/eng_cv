@@ -28,9 +28,8 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: Sun Yat-sen university & University of Virginia (Double Master)
     duration: "Sep 2018 - July 2021"
-    sub: 
-    detail: Master of Economics (International Business)  <br>  &nbsp &nbsp
-            Business Analytics, Supply Chain Management, SPSS, Satistics, International Economics, Econometrics
+    sub: Master of Economics (International Business)
+    detail: Business Analytics, Supply Chain Management, SPSS, Satistics, International Economics, Econometrics
             
   # - title: Esade
   #   # duration:
@@ -46,9 +45,8 @@ main: #简历主要内容，
             
   - title: Guangdong University of Foreign Studies
     duration: "Sep 2014 - July 2018"
-    sub: 
-    detail: Bachelor of Economics <br>  &nbsp &nbsp
-            Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
+    sub: Bachelor of Economics <br>  &nbsp &nbsp
+    detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
     
     
     
