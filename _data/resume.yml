@@ -3,15 +3,15 @@
 title: "Hazel's CV"
 lang: "en" #语言设置 zh表示中文 en 表示英语
 name: "Hazel Yang"
-jobtitle: "Data Analyst/ Data Scientist" #可空不显示
+jobtitle: "Data Scientist" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 #联系方式
 contact: #联系方式连接等3~5行
 - text: "hazel.yang518@gmail.com" #文本内容
   href: 'mailto:hazel.yang518@gmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-  # - text: "+86 18826101678"
-  # icon: 'icons/phone.svg'
+  - text: "+86 18826101678"
+  icon: 'icons/phone.svg'
   # - text: "your-website.com"
   #  href: 'http://your-website.com'
   #  icon: 'icons/web.svg'
@@ -26,11 +26,11 @@ main: #简历主要内容，
 - type: EDUCATION #类别为ID
   name:  #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: University of Virginia & ESADE business school (Double Master)
+  - title: Sun Yat-sen university & University of Virginia (Double Master)
     duration: "Sep 2018 - July 2021"
     sub: 
     detail: Master of Economics (International Business)  <br>  &nbsp &nbsp
-            Business Analytics, International Economics, SPSS, Statistics, Game Theory, Economics and Computation
+            Business Analytics, Supply Chain Management, SPSS, Satistics, International Economics, Econometrics
             
   # - title: Esade
   #   # duration:
@@ -57,10 +57,10 @@ main: #简历主要内容，
   content:
   - title: Programming Skills
     items: #itmems 可以小块的方式显示
-    - SQL
-    - Python
-    - Hive/Spark/Presto
-    - Data visualization
+    - SQL 
+    - Python 
+    - Data visualization (Power BI, Tableau, Dash Plotly)
+    - Machine Learning (Tensorflow, Pytorch) 
   # - title: Personl 
   #   summary: 1. 有画像业务的完整项目经验，有独立分析和解决数据问题的能力，能针对画像场景进行有效数据挖掘并形成策略
   #            2. 掌握多种数据分析模型，了解多种技术选型，并能有效应用于画像服务中。如留存分析、漏斗分析、人群分析、RFM模型等
@@ -70,11 +70,9 @@ main: #简历主要内容，
   #   - Data visualization 
   - title: Highlights 
     detail: &nbsp 
-             1. Proficient in diverse data analysis methodologies (i.e. Retention analysis, Funnel analysis, RFM model, and clustering techniques). <br>  &nbsp &nbsp
-             2. Solid understanding of data analysis models (i.e. linear/logistic regression, SHAP value, decision trees, causal analysis). <br>  &nbsp &nbsp
-             3. Mastered various big data tools. (i.e. Mapreduce, Spark, HDFS, Hive, Airflow, Databricks). Hands-on Data engineering experience. <br>  &nbsp &nbsp
-             4. Advanced experience with data visualization (i.e. Tableau, Power BI).  <br>  &nbsp &nbsp
-             5. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
+             1. Solid understanding of machine learning models (i.e. Classification/Regression, KNN, Logistic/Linear Regression, Neural Networks, K-Means Clustering, PCA). <br>  &nbsp &nbsp
+             2. Advanced experience with data visualization (i.e. Tableau, Power BI, Dash Plotly, Apache ECharts).  <br>  &nbsp &nbsp
+             3. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
 
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              #  Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
@@ -82,7 +80,7 @@ main: #简历主要内容，
 - type:  JOB HISTORY
   # name: WORK EXPERIENCE
   content:
-  - title: Tencent - Data Scientist/ Data Engineer
+  - title: Tencent - Data Scientist
     sub: Data Platform - User-profile 
     duration: "July 2021 - Present"
     tags:
@@ -93,8 +91,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. <br>  &nbsp &nbsp
-            Data Engineer -  Resolved data issues encountered by users when using the user-profile data platform. 
+    detail: Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. Resolved data issues encountered by users when using the user-profile data platform. <br>  &nbsp &nbsp
              
     open: open
     #可以设置open默认展开
@@ -132,7 +129,7 @@ main: #简历主要内容，
 - type: PROJECTS
   name: 
   content:
-  - title: Data Analyst / Data Scientist
+  - title: Data Scientist
     duration: 
     tags:
     - Hive
