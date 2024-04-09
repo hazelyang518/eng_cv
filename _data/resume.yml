@@ -26,9 +26,10 @@ main: #简历主要内容，
 - type: EDUCATION #类别为ID
   name:  #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: Sun Yat-sen university & University of Virginia (Double Master)
+  - title: Sun Yat-sen university  <br>  &nbsp &nbsp
+           & University of Virginia (Double Master) 
     duration: "Sep 2018 - July 2021"
-    sub: Master of Economics (International Business)
+    sub: Master of Economics <br>  &nbsp &nbsp
     detail: Business Analytics, Supply Chain Management, SPSS, Satistics, International Economics, Econometrics
             
   # - title: Esade
