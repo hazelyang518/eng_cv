@@ -29,7 +29,8 @@ main: #简历主要内容，
   - title: Sun Yat-sen university & University of Virginia <br>  &nbsp &nbsp 
            (Double Master) 
     duration: "Sep 2018 - July 2021"
-    sub: Master of Economics <br>  &nbsp &nbsp
+    sub: Master of Economics <br>  &nbsp &nbsp 
+         (International Business)
     detail: Business Analytics, Supply Chain Management, SPSS, Satistics, International Economics, Econometrics
             
   # - title: Esade
@@ -132,9 +133,9 @@ main: #简历主要内容，
     duration: 
     tags:
     - Machine Learning
-    - ETL/ELT in Python (Hive,Spark)
+    - ETL/ELT in SQL/Python
     - Data visualization
-    - A/B testing
+    # - A/B testing
     - CI/CD 
     - Git
     # detail: 1.画像挖掘：使用SQL/Python挖掘各类核心标签，如用户应用偏好标签、人群属性标签，用于人群投放场景，标签累计创建人群1000+，产生20+正向场景，覆盖PCG、IEG等BG的多个业务 <br>  &nbsp &nbsp 
