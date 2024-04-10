@@ -98,11 +98,11 @@ main: #简历主要内容，
             · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted to 30+ business partners. Achieved 0 to 20+ billion/day request.  <br>  &nbsp &nbsp 
             <strong>Data Analysis</strong>  <br>  &nbsp &nbsp 
             · Data Visualization - Establishing key indicators to monitor user-profile coverage. Developing user-profile coverage dashboards with 300+ labels, presenting results to the recommendation team for decision making. <br>  &nbsp &nbsp 
-            · User Research - Conducting user research among app users, collecting 10000+ questionnaires result, measuring feedback reliability and user-profile accuracy, providing insights for improvement of user profile of interests on items. Improved accuracy by 13%. <br>  &nbsp &nbsp 
+            · User Research - Conducting user research among app users, collecting over 10,000 questionnaires result, measuring feedback reliability and user-profile accuracy, providing insights for improvement of users' interest on items. Improved accuracy by 13%. <br>  &nbsp &nbsp 
             <strong>Data-platform Engineer</strong>  <br>  &nbsp &nbsp
             · Process Digitalization - Optimizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, manpower is improved by 90%.<br>  &nbsp &nbsp
-            · Storage Upgration - Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, improved QPS by 100 times. <br>  &nbsp &nbsp
-            · User Promotion - Promoted the data platform by sharing best practices within organization to over 10000+ users. Wrote documentation and presentation for data platform, with PV visits exceeding 50,000 and UV exceeding 10,000.   
+            · Storage Upgration - Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, improved QPS flow by 100 times. <br>  &nbsp &nbsp
+            · User Promotion - Promoted the data platform by sharing best practices within organization to over 10,000 users. Wrote documentation and presentation for data platform, with PV visits exceeding 50,000 and UV exceeding 10,000.   
              
     open: open
     #可以设置open默认展开
