@@ -58,7 +58,7 @@ main: #简历主要内容，
   - title: Programming Skills
     items: #itmems 可以小块的方式显示
     - SQL 
-    - Python 
+    - Python (Pandas, XGBoost, Scikit Learn)
     - Data visualization (Power BI, Tableau, Dash Plotly)
     - Machine Learning (Tensorflow, Pytorch) 
   # - title: Personl 
@@ -72,7 +72,7 @@ main: #简历主要内容，
     detail: &nbsp 
              1. Solid understanding of machine learning models (i.e. Classification/Regression, KNN, Logistic/Linear Regression, Neural Networks, K-Means Clustering, PCA). <br>  &nbsp &nbsp
              2. Advanced experience with data visualization (i.e. Tableau, Power BI, Dash Plotly, Apache ECharts).  <br>  &nbsp &nbsp
-             3. Strong communication and organization skills and ability to communicate with a diverse set of stakeholders.
+             3. Strong communication and organization skills and ability to communicate with cross-functional teams.
 
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              #  Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
@@ -81,7 +81,7 @@ main: #简历主要内容，
   # name: WORK EXPERIENCE
   content:
   - title: Tencent - Data Scientist
-    sub: Data Platform - User-profile 
+    sub: Data Department - User-profile 
     duration: "July 2021 - Present"
     tags:
     # - 画像挖掘
@@ -91,7 +91,8 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Scientist - Creating machine learning models(Classification) for user-profile. Establishing key indicators and monitoring dashboards for user-profile service for Tencent news APP (100 million+ daily active users).
+    detail: Creating machine learning models (Classification) for user-profile. <br>  &nbsp &nbsp
+    Establishing key indicators and monitoring dashboards for user-profile service for Tencent news APP (100 million+ daily active users).
              
     open: open
     #可以设置open默认展开
@@ -191,11 +192,11 @@ others: #其他列表显示
   content: #选择需要的格式
   - 
   - title: "AWARDS"
-    text: "Outstanding Employees(5% of all)，The co-authors of Data Standards For Data Sharing"
+    text: "Outstanding Employees(5% of all)"
   # - title: "CERTIFICATIONS"
   #   text: "Data "
     items: #单行列表
-    - "Outstanding Employees(5% of all)，The co-authors of Data Standards For Data Sharing"
+    - "Outstanding Employees(5% of all)"
   #   - 吃饭
   #   - coding
   # - title: 列表
