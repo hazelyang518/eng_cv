@@ -147,13 +147,13 @@ main: #简历主要内容，
     
 
     sub: 
-    detail: 1. Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The model is widely used and has achieved industry-leading prediction accuracy rates. <br>  &nbsp &nbsp 
-            2. Establishing and maintaining unified ID-mapping ETL pipelines to ensure data accuracy. Proactively promoted Uni-ID to 30+ business partners. Achieved 0 to 20+ billion/day request for Uni-ID service. <br>  &nbsp &nbsp 
-            3. Developing user-profile coverage dashboards with 300+ labels, presenting results to the collaborative team for decision making.<br>  &nbsp &nbsp 
-            4. Optimizatizing process by digitalizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, greatly improving efficiency.<br>  &nbsp &nbsp 
-            5. Collaborate with stakeholders across departments to improve key performance indicators. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. <br>  &nbsp &nbsp  
-            6. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
-            7. Promote the data platform by sharing best practices within organization with audience over 10000+. Wrote documentation for data platform.   
+    detail: 1. Data Mining - Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The model is widely used and has achieved industry-leading prediction accuracy rates. <br>  &nbsp &nbsp 
+            2. Data Visualization - Developing user-profile coverage dashboards with 300+ labels, presenting results to the collaborative team for decision making.<br>  &nbsp &nbsp 
+            4. Process Digitalization - Optimizatizating user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, greatly improving efficiency.<br>  &nbsp &nbsp 
+            5. User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. <br>  &nbsp &nbsp  
+            3. Data ETL - Establishing and maintaining unified ID-mapping ETL pipelines to ensure data accuracy. Proactively promoted Uni-ID to 30+ business partners. Achieved 0 to 20+ billion/day request for Uni-ID service. <br>  &nbsp &nbsp 
+            6. Data analysis - As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
+            7. Promotion among users - Promote the data platform by sharing best practices within organization with audience over 10000+. Wrote documentation for data platform.   
             # 5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Sent 100w+ active users personal questionnaire to collect users feedback and analyze result. <br>  &nbsp &nbsp 
             
   # - title: Data Engineer
