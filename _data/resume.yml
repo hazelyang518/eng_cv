@@ -131,9 +131,12 @@ main: #简历主要内容，
   - title: Data Scientist
     duration: 
     tags:
+    - Machine Learning
     - ETL/ELT in Python (Hive,Spark)
+    - Data visualization
     - A/B testing
-    - CI/CD Git
+    - CI/CD 
+    - Git
     # detail: 1.画像挖掘：使用SQL/Python挖掘各类核心标签，如用户应用偏好标签、人群属性标签，用于人群投放场景，标签累计创建人群1000+，产生20+正向场景，覆盖PCG、IEG等BG的多个业务 <br>  &nbsp &nbsp 
     #         2.标签开发：建立并维护画像标签ETL链路，保障数据的完整性、准确性和一致性；按数仓规范进行标签开发，配置告警，推动标签产出效率从t+3提升到t+1 <br>  &nbsp &nbsp 
     #         3.指标监控：配置新闻业务各场景用户的画像覆盖度监控，覆盖新闻主端app、微信新闻插件、手q新闻插件等产品形态，包括100+标签；利用ClickHouse计算画像覆盖度，降低任务配置难度，实现高效运算 <br>  &nbsp &nbsp  
@@ -149,7 +152,7 @@ main: #简历主要内容，
             4. Optimizatizing process by digitalizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, greatly improving efficiency.<br>  &nbsp &nbsp 
             5. Collaborate with stakeholders across departments to improve key performance indicators. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. 
             6. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
-            7. Promote the data platform by sharing best practices within organization with audience over 10000+. Wrote documentation for data platform. <br>  &nbsp &nbsp  
+            7. Promote the data platform by sharing best practices within organization with audience over 10000+. Wrote documentation for data platform.   
             # 5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Sent 100w+ active users personal questionnaire to collect users feedback and analyze result. <br>  &nbsp &nbsp 
             
   # - title: Data Engineer
