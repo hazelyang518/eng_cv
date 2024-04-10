@@ -91,8 +91,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Creating machine learning models (Classification) for user-profile. <br>  &nbsp &nbsp
-    Establishing key indicators and monitoring dashboards for user-profile service for Tencent news APP (100 million+ daily active users).
+    detail: Creating machine learning models (Classification) for user-profile. <br>  &nbsp &nbsp Establishing key indicators and monitoring dashboards for user-profile service for Tencent news APP (100 million+ daily active users).
              
     open: open
     #可以设置open默认展开
