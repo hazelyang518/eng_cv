@@ -84,7 +84,7 @@ main: #简历主要内容，
     sub: Data Department - User-profile 
     duration: "July 2021 - Present"
     tags: 
-    - Machine Learning
+    - SQL/Python
     - Data visualization
     - CI/CD Git
     # - 画像挖掘
