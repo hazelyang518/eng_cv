@@ -97,7 +97,7 @@ main: #简历主要内容，
     detail: <strong>Data Mining</strong> <br>  &nbsp &nbsp 
             · Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level, new version's accuracy is improved by 10%. <br>  &nbsp &nbsp 
             · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted to 30+ business partners. Achieved 0 to 20+ billion/day request.  <br>  &nbsp &nbsp 
-            · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. The experiment 
+            · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. The experiment xxxx 想补充点指标数据<br>  &nbsp &nbsp
             <strong>Data Analysis</strong>  <br>  &nbsp &nbsp 
             · Data Visualization - Establishing key indicators to monitor user-profile coverage. Developing user-profile coverage dashboards with 300+ labels, presenting results to the recommendation team for decision making. <br>  &nbsp &nbsp 
             · Data Analysis - As the owner, responsible for data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp
