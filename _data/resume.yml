@@ -69,8 +69,7 @@ main: #简历主要内容，
   #            5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验
   #   - Data visualization 
   - title: Highlights 
-    detail: &nbsp 
-             1. Solid understanding of machine learning models (i.e. Classification, Logistic Regression). <br>  &nbsp &nbsp
+    detail:  1. Solid understanding of machine learning models (i.e. Classification, Logistic Regression). <br>  &nbsp &nbsp
              2. Advanced experience with data visualization (i.e. Tableau, Power BI, Dash Plotly, Apache ECharts).  <br>  &nbsp &nbsp
              3. Strong communication and organization skills and ability to communicate with cross-functional teams.
 
@@ -97,10 +96,11 @@ main: #简历主要内容，
     detail: <strong>Data Mining</strong> <br>  &nbsp &nbsp 
             · Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level, new version's accuracy is improved by 10%. <br>  &nbsp &nbsp 
             · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted to 30+ business partners. Achieved 0 to 20+ billion/day request.  <br>  &nbsp &nbsp 
-            · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. The experiment xxxx 想补充点指标数据<br>  &nbsp &nbsp
+            # · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. The experiment xxxx 想补充点指标数据<br>  &nbsp &nbsp
             <strong>Data Analysis</strong>  <br>  &nbsp &nbsp 
             · Data Visualization - Establishing key indicators to monitor user-profile coverage. Developing user-profile coverage dashboards with 300+ labels, presenting results to the recommendation team for decision making. <br>  &nbsp &nbsp 
-            · Data Analysis - As the owner, responsible for data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp
+            · User Research - Conducting user research among app users, collecting 10000+ questionnaires result, measuring feedback reliability and user-profile accuracy, providing insights for improvement of user profile of interests on items. Improved accuracy by 13%. <br>  &nbsp &nbsp 
+            # · Data Analysis - As the owner, responsible for data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp
             <strong>Data-platform Engineer</strong>  <br>  &nbsp &nbsp
             · Process Digitalization - Optimizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, manpower is improved by 90%.<br>  &nbsp &nbsp
             · Storage Upgration - Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, improved QPS by 100 times. <br>  &nbsp &nbsp
