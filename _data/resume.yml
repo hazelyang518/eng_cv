@@ -31,7 +31,7 @@ main: #简历主要内容，
     duration: "Sep 2018 - July 2021"
     sub: Master of Economics <br>  &nbsp &nbsp 
          (International Business)
-    detail: Business Analytics, Supply Chain Management, SPSS, Satistics, International Economics, Econometrics
+    detail: Business Analytics, Supply Chain Management, Statistics, International Economics, Econometrics
             
   # - title: Esade
   #   # duration:
@@ -48,6 +48,7 @@ main: #简历主要内容，
   - title: Guangdong University of Foreign Studies
     duration: "Sep 2014 - July 2018"
     sub: Bachelor of Economics <br>  &nbsp &nbsp
+        (International Economics and Trade)
     detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
     
     
@@ -71,7 +72,7 @@ main: #简历主要内容，
   - title: Highlights 
     detail:  1. Solid understanding of machine learning models (i.e. Classification, Logistic Regression). <br>  &nbsp &nbsp
              2. Advanced experience with data visualization (i.e. Tableau, Power BI, Dash Plotly, Apache ECharts).  <br>  &nbsp &nbsp
-             3. Strong communication and organization skills and ability to communicate with cross-functional teams.
+             3. Strong communication and organization skills and ability to collaborate with cross-functional teams.
 
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              #  Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
@@ -94,10 +95,10 @@ main: #简历主要内容，
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
     detail: <strong>Data Mining</strong> <br>  &nbsp &nbsp 
-            · Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level. <strong>New version's accuracy is improved by 10%</strong>. <br>  &nbsp &nbsp 
-            · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted to 30+ business partners. Achieved 0 to <strong>20+ billion/day request</strong>.  <br>  &nbsp &nbsp 
+            · Using SQL/Python to conduct data mining and producing various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level. <strong>New version's accuracy is improved by 10%</strong>. <br>  &nbsp &nbsp 
+            · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted user-profile service to 30+ business partners. <strong> Achieved 0 to 20+ billion/day request</strong>.  <br>  &nbsp &nbsp 
             <strong>Data Analysis</strong>  <br>  &nbsp &nbsp 
-            · Data Visualization - Establishing key indicators to monitor user-profile coverage. Developed user-profile <strong>interactive coverage dashboards with 300+ labels</strong>. Presented results to the recommendation team for decision making. <br>  &nbsp &nbsp 
+            · Data Visualization - Establishing key indicators to monitor user-profile coverage. <strong>Developed user-profile interactive coverage dashboards with 300+ labels</strong>. Presented results to the recommendation team for decision making. <br>  &nbsp &nbsp 
             · User Research - Conducting user research among app users. Collected over 10,000 questionnaires result. Measured feedback reliability and user-profile accuracy. Provided data insights for improvement of users' interest on items. <strong>Improved accuracy by 13%</strong>. <br>  &nbsp &nbsp 
             <strong>Data-platform Engineer</strong>  <br>  &nbsp &nbsp
             · Process Digitalization - Optimizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, <strong>manpower is improved by 90%</strong>.<br>  &nbsp &nbsp
