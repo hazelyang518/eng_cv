@@ -85,12 +85,8 @@ main: #简历主要内容，
     duration: "July 2021 - Present"
     tags: 
     - Machine Learning
-    - ETL/ELT in SQL/Python
     - Data visualization
-    <br>  &nbsp &nbsp 
-    # - A/B testing
-    - CI/CD 
-    - Git
+    - CI/CD Git
     # - 画像挖掘
     # - 标签开发
     # - 指标监控
