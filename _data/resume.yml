@@ -87,6 +87,7 @@ main: #简历主要内容，
     - Machine Learning
     - ETL/ELT in SQL/Python
     - Data visualization
+    <br>  &nbsp &nbsp 
     # - A/B testing
     - CI/CD 
     - Git
