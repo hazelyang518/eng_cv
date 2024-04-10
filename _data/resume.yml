@@ -204,15 +204,15 @@ others: #其他列表显示
   - 
   - title: "AWARDS"
     text: "Outstanding Employees(5% of all)"
-  # - title: "CERTIFICATIONS"
-  #   text: "Data "
+  - title: "LANGUAGE"
+    text: "English IELTS overall 7.0 "
     items: #单行列表
     - "Outstanding Employees(5% of all)"
   #   - 吃饭
     # - coding
-  - title: "LANGUAGE"
-    list:
-    - English IELTS overall 7.0 
+  # - title: "LANGUAGE"
+  #   list:
+  #   - English IELTS overall 7.0 
   #   - 第二项
 #- type: 
 #  name: '其他'
