@@ -94,15 +94,15 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Mining <br>  &nbsp &nbsp 
+    detail: **Data Mining** <br>  &nbsp &nbsp 
             · Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The model is widely used and has achieved industry-leading prediction accuracy rates. <br>  &nbsp &nbsp 
             · Data Visualization - Developing user-profile coverage dashboards with 300+ labels, presenting results to the collaborative team for decision making.<br>  &nbsp &nbsp 
-            Data Analysis  <br>  &nbsp &nbsp 
+            **Data Analysis**  <br>  &nbsp &nbsp 
             · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. <br>  &nbsp &nbsp
             · Process Digitalization - Optimizatizating user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, greatly improving efficiency.<br>  &nbsp &nbsp
+            · Data analysis - As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp
+            **Data-platform developer**  <br>  &nbsp &nbsp 
             · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted to 30+ business partners. Achieved 0 to 20+ billion/day request. <br>  &nbsp &nbsp 
-            aaaa  <br>  &nbsp &nbsp 
-            · Data analysis - As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
             · Promotion among users - Promote the data platform by sharing best practices within organization to over 10000+ users. Wrote documentation and presentation for data platform.   
              
     open: open
