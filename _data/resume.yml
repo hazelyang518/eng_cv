@@ -206,10 +206,10 @@ others: #其他列表显示
     items: #单行列表
     - "Outstanding Employees(5% of all)"
   #   - 吃饭
-  #   - coding
-  # - title: 列表
-  #   list:
-  #   - 第一项
+    # - coding
+  - title: "LANGUAGE"
+    list:
+    - English IELTS overall 7.0 
   #   - 第二项
 #- type: 
 #  name: '其他'
