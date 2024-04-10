@@ -96,11 +96,9 @@ main: #简历主要内容，
     detail: <strong>Data Mining</strong> <br>  &nbsp &nbsp 
             · Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level, new version's accuracy is improved by 10%. <br>  &nbsp &nbsp 
             · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted to 30+ business partners. Achieved 0 to 20+ billion/day request.  <br>  &nbsp &nbsp 
-            # · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. The experiment xxxx 想补充点指标数据<br>  &nbsp &nbsp
             <strong>Data Analysis</strong>  <br>  &nbsp &nbsp 
             · Data Visualization - Establishing key indicators to monitor user-profile coverage. Developing user-profile coverage dashboards with 300+ labels, presenting results to the recommendation team for decision making. <br>  &nbsp &nbsp 
             · User Research - Conducting user research among app users, collecting 10000+ questionnaires result, measuring feedback reliability and user-profile accuracy, providing insights for improvement of user profile of interests on items. Improved accuracy by 13%. <br>  &nbsp &nbsp 
-            # · Data Analysis - As the owner, responsible for data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp
             <strong>Data-platform Engineer</strong>  <br>  &nbsp &nbsp
             · Process Digitalization - Optimizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, manpower is improved by 90%.<br>  &nbsp &nbsp
             · Storage Upgration - Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, improved QPS by 100 times. <br>  &nbsp &nbsp
@@ -122,7 +120,7 @@ main: #简历主要内容，
   #   # summary: 职务或者工作总结(自动折叠)
   #   detail:  Organize conversations with customers to analyse, structure and document requirements. Design a pharmaceutical knowledge graph product, draw out functional & technical requirements documents.
   #   #可以设置open默认展开
-
+  
   # - title: Morningstar - Financial Data Analyst
   #   sub: Global Fund department
   #   duration: "June 2018 - Aug 2018"
@@ -157,6 +155,8 @@ main: #简历主要内容，
     #         4.画像评测：在准确率评估项目中，创新性搭建可复用的自动化画像测评流程，实现问卷自动生成与回收结果，产出画像准确率分析报告，耗时从1个月+降低到3日内完成，测评效率大幅度提升  <br>  &nbsp &nbsp 
     #         5.画像提升：负责新闻业务兴趣画像置信度指标测算，对置信度低的画像进行原因挖掘，推动画像算法策略调优；结合已有数据积累建立预估模型，为游戏数据表现以及市场分析提供结果预测  <br>  &nbsp &nbsp 
     #         6.实验配置：产出微信腾讯新闻插件实验人群，配置实验人群包，跟进回收并分析人群实验效果；沉默用户拉起实验中底层页人均消费时长显著正向，策略已推全
+    # · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. The experiment xxxx 想补充点指标数据<br>  &nbsp &nbsp
+    # · Data Analysis - As the owner, responsible for data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp
     
 
     # sub: 
