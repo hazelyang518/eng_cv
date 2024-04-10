@@ -90,7 +90,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Scientist - Responsible for improving the performance of Tencent news APP (100 million+ dau), establishing key indicators and monitoring dashboards for user-profile service. Resolved data issues encountered by users when using the user-profile data platform. <br>  &nbsp &nbsp
+    detail: Data Scientist - Creating machine learning models(Classification) for user-profile. Establishing key indicators and monitoring dashboards for user-profile service for Tencent news APP (100 million+ daily active users). <br>  &nbsp &nbsp
              
     open: open
     #可以设置open默认展开
@@ -131,11 +131,9 @@ main: #简历主要内容，
   - title: Data Scientist
     duration: 
     tags:
-    - Hive
-    - Spark
-    - Data analysis
-    - User research
+    - ETL/ELT in Python (Hive,Spark)
     - A/B testing
+    - CI/CD Git
     # detail: 1.画像挖掘：使用SQL/Python挖掘各类核心标签，如用户应用偏好标签、人群属性标签，用于人群投放场景，标签累计创建人群1000+，产生20+正向场景，覆盖PCG、IEG等BG的多个业务 <br>  &nbsp &nbsp 
     #         2.标签开发：建立并维护画像标签ETL链路，保障数据的完整性、准确性和一致性；按数仓规范进行标签开发，配置告警，推动标签产出效率从t+3提升到t+1 <br>  &nbsp &nbsp 
     #         3.指标监控：配置新闻业务各场景用户的画像覆盖度监控，覆盖新闻主端app、微信新闻插件、手q新闻插件等产品形态，包括100+标签；利用ClickHouse计算画像覆盖度，降低任务配置难度，实现高效运算 <br>  &nbsp &nbsp  
@@ -145,34 +143,36 @@ main: #简历主要内容，
     
 
     sub: 
-    detail: 1. Using SQL/Python to conduct data mining and produce various user-profile, such as users application preference. <br>  &nbsp &nbsp 
-            2. Established and maintained unified ID-mapping ETL pipelines to ensure data accuracy. Proactively promoted Uni-ID to 30+ business partners. Achieved 0 to 20+ billion/day request for Uni-ID service. <br>  &nbsp &nbsp 
-            3. Developed user-profile coverage dashboards with 100+ labels. Used ClickHouse to achieve efficiency.<br>  &nbsp &nbsp 
-            4. Built a reusable automated user-profile evaluation program, which can automatically collect questionnaires and generate result, reducing time from over one month to within three days, greatly improving efficiency.<br>  &nbsp &nbsp 
-            5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Sent 100w+ active users personal questionnaire to collect users feedback and analyze result. <br>  &nbsp &nbsp 
-            6. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. Collaborate with stakeholders across departments to improve key performance indicators (i.e. time on page, click rate).
+    detail: 1. Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. <br>  &nbsp &nbsp 
+            2. Establishing and maintaining unified ID-mapping ETL pipelines to ensure data accuracy. Proactively promoted Uni-ID to 30+ business partners. Achieved 0 to 20+ billion/day request for Uni-ID service. <br>  &nbsp &nbsp 
+            3. Developing user-profile coverage dashboards with 300+ labels, presenting results to the collaborative team to decide feature launch.<br>  &nbsp &nbsp 
+            4. Optimizatizing process by digitalizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, greatly improving efficiency.<br>  &nbsp &nbsp 
+            5. Collaborate with stakeholders across departments to improve key performance indicators. Produced target group for AB testing, configuring experimental setting, interpreting experimental effects. 
+            6. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
+            7. Promote the data platform by sharing best practices within organization with audience over 10000+. Wrote documentation for data platform. <br>  &nbsp &nbsp  
+            # 5. Responsible for analyzing the confidence of user-profile, solving the problem of low confidence, and ensuring the optimization of algorithm. Sent 100w+ active users personal questionnaire to collect users feedback and analyze result. <br>  &nbsp &nbsp 
             
-  - title: Data Engineer
-    duration: 
-    tags:
-    - ETL/ELT in Python
-    - Data governance
-    - CI/CD Git
-    - Data warehousing
+  # - title: Data Engineer
+  #   duration: 
+  #   tags:
+  #   - ETL/ELT in Python
+  #   - Data governance
+  #   - CI/CD Git
+  #   - Data warehousing
     
     # detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链	路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
     #         2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
     #         3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行根因分析与修复，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
     #         4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+ <br> 
 
-    sub:     
+    # sub:     
 
-    detail: 1. Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
-            2. Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
-            3. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
-            4. Promote the data platform by sharing best practices within organization with audience over 1000+. Wrote documentation for data platform , with PV visits exceeding 50,000 and UV exceeding 10,000. <br>  &nbsp &nbsp  
-            5. Defining meta-data standards for user-profile platform. Eusured the quality of data production and provide high standard user-profile service. <br>  &nbsp &nbsp  
-            6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
+    # detail: 1. Established a comprehensive user-profile library, developed and integrated 100+ user-profiles into the big data platform. Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries, achieving response improvement.<br>  &nbsp &nbsp  
+    #         2. Built an automated analysis template, reducing the time of generating report from 1 person/day to within half an hour. <br>  &nbsp &nbsp  
+    #         3. As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
+    #         4. Promote the data platform by sharing best practices within organization with audience over 1000+. Wrote documentation for data platform , with PV visits exceeding 50,000 and UV exceeding 10,000. <br>  &nbsp &nbsp  
+    #         5. Defining meta-data standards for user-profile platform. Eusured the quality of data production and provide high standard user-profile service. <br>  &nbsp &nbsp  
+    #         6. Collect user feedback and develop solutions to address their issues, and then drive the implementation of these solutions.
     
   # - title: Project Name
   #   summary: Projects' introduction or summary
@@ -210,7 +210,7 @@ footer: #脚注多组
   - text: "footnote"
   #   href: '/'
   - text: "Made with &hearts; by Hazelyang"
-    href: "https://hazelyang518.github.io/cv/"
+    href: "https://hazelyang518.github.io/eng-supply-chain-cv/"
 #页面额外js脚本，如xx统计
 scripts:
 #- src: "assets/js/resume.js"
