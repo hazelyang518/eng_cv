@@ -76,7 +76,7 @@ main: #简历主要内容，
              # 1. Proven experience as a Data Analyst, improving products and extracting insights from user-profile. <br>  &nbsp &nbsp
              #  Mastered various data analysis techniques (i.e. Retention analysis, Funnel analysis, RFM model, clustering). <br>  &nbsp &nbsp
              
-- type:  JOB HISTORY
+- type:  WORK EXPERIENCE
   # name: WORK EXPERIENCE
   content:
   - title: Tencent - Data Scientist
@@ -90,7 +90,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: Data Scientist - Creating machine learning models(Classification) for user-profile. Establishing key indicators and monitoring dashboards for user-profile service for Tencent news APP (100 million+ daily active users). <br>  &nbsp &nbsp
+    detail: Data Scientist - Creating machine learning models(Classification) for user-profile. Establishing key indicators and monitoring dashboards for user-profile service for Tencent news APP (100 million+ daily active users).
              
     open: open
     #可以设置open默认展开
