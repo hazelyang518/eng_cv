@@ -58,9 +58,9 @@ main: #简历主要内容，
   - title: Programming Skills
     items: #itmems 可以小块的方式显示
     - SQL 
-    - Python (Pandas, XGBoost, Scikit Learn)
+    - Python 
     - Data visualization (Power BI, Tableau, Dash Plotly)
-    - Machine Learning (Tensorflow, Pytorch) 
+    - Machine Learning 
   # - title: Personl 
   #   summary: 1. 有画像业务的完整项目经验，有独立分析和解决数据问题的能力，能针对画像场景进行有效数据挖掘并形成策略
   #            2. 掌握多种数据分析模型，了解多种技术选型，并能有效应用于画像服务中。如留存分析、漏斗分析、人群分析、RFM模型等
@@ -70,7 +70,7 @@ main: #简历主要内容，
   #   - Data visualization 
   - title: Highlights 
     detail: &nbsp 
-             1. Solid understanding of machine learning models (i.e. Classification/Regression, KNN, Logistic/Linear Regression, Neural Networks, K-Means Clustering, PCA). <br>  &nbsp &nbsp
+             1. Solid understanding of machine learning models (i.e. Classification, Logistic Regression). <br>  &nbsp &nbsp
              2. Advanced experience with data visualization (i.e. Tableau, Power BI, Dash Plotly, Apache ECharts).  <br>  &nbsp &nbsp
              3. Strong communication and organization skills and ability to communicate with cross-functional teams.
 
@@ -82,7 +82,7 @@ main: #简历主要内容，
   content:
   - title: Tencent - Data Scientist
     sub: Data Department - User-profile 
-    duration: "July 2021 - Present"
+    duration: "July 2020 - Present"
     tags: 
     - SQL/Python
     - Data visualization
@@ -94,13 +94,16 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: 1. Data Mining - Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The model is widely used and has achieved industry-leading prediction accuracy rates. <br>  &nbsp &nbsp 
-            2. Data Visualization - Developing user-profile coverage dashboards with 300+ labels, presenting results to the collaborative team for decision making.<br>  &nbsp &nbsp 
-            3. Process Digitalization - Optimizatizating user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, greatly improving efficiency.<br>  &nbsp &nbsp 
-            4. User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. <br>  &nbsp &nbsp  
-            5. Data ETL - Establishing and maintaining unified ID-mapping ETL pipelines to ensure data accuracy. Proactively promoted Uni-ID to 30+ business partners. Achieved 0 to 20+ billion/day request for Uni-ID service. <br>  &nbsp &nbsp 
-            6. Data analysis - As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
-            7. Promotion among users - Promote the data platform by sharing best practices within organization with audience over 10000+. Wrote documentation for data platform.   
+    detail: Data Mining <br>  &nbsp &nbsp 
+            · Using SQL/Python to conduct data mining and produce various user-profile with classification/regression models. The model is widely used and has achieved industry-leading prediction accuracy rates. <br>  &nbsp &nbsp 
+            · Data Visualization - Developing user-profile coverage dashboards with 300+ labels, presenting results to the collaborative team for decision making.<br>  &nbsp &nbsp 
+            Data Analysis  <br>  &nbsp &nbsp 
+            · User Segmentation - Collaborate with stakeholders across departments to improve key performance indicators. Produced segmentation for AB testing, configuring experimental setting, interpreting experimental effects. <br>  &nbsp &nbsp
+            · Process Digitalization - Optimizatizating user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, greatly improving efficiency.<br>  &nbsp &nbsp
+            · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted to 30+ business partners. Achieved 0 to 20+ billion/day request. <br>  &nbsp &nbsp 
+            aaaa  <br>  &nbsp &nbsp 
+            · Data analysis - As the owner, responsible for big data platform operations and data analysis, processing user feedback and bad cases. Conducted root cause analysis and fixed bugs. <br>  &nbsp &nbsp  
+            · Promotion among users - Promote the data platform by sharing best practices within organization to over 10000+ users. Wrote documentation and presentation for data platform.   
              
     open: open
     #可以设置open默认展开
