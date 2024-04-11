@@ -10,8 +10,8 @@ contact: #联系方式连接等3~5行
 - text: "hazel.yang518@gmail.com" #文本内容
   href: 'mailto:hazel.yang518@gmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-  # - text: "+86 18826101678"
-  # icon: 'icons/phone.svg'
+  - text: "+86 18826101678"
+  icon: 'icons/phone.svg'
   # - text: "your-website.com"
   #  href: 'http://your-website.com'
   #  icon: 'icons/web.svg'
