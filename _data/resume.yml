@@ -26,8 +26,8 @@ main: #简历主要内容，
 - type: EDUCATION #类别为ID
   name:  #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: Esade Business School (Barcelona,Spain) & <br>  &nbsp &nbsp
-           University of Virginia (U.S.) <br>  &nbsp &nbsp 
+  - title: Esade Business School (Barcelona,Spain) & <br>
+           University of Virginia (U.S.) <br>
            (Double Master) 
     duration: "Sep 2018 - July 2021"
     tags:
