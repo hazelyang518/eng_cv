@@ -270,7 +270,7 @@ footer: #脚注多组
   - text: "footnote"
   #   href: '/'
   - text: "Made with &hearts; by Hazelyang"
-    href: "https://hazelyang518.github.io/eng-supply-chain-cv/"
+    # href: "https://hazelyang518.github.io/eng-supply-chain-cv/"
 #页面额外js脚本，如xx统计
 scripts:
 #- src: "assets/js/resume.js"
