@@ -100,22 +100,22 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: <strong>Project Overview:Responsible for establishing a one-stop user-profile system that includes datamining, data analysis and application.</strong> <br>  &nbsp &nbsp  <em>cat's meow</em>.
+    detail: <strong>Project Overview:&nbsp Responsible for establishing a one-stop user-profile system that includes datamining, data analysis and application.</strong> <br>  &nbsp &nbsp  
             <br>  &nbsp &nbsp
             <strong>1.Data Mining</strong> <br>  &nbsp &nbsp 
-            · Using SQL/Python to conduct data mining and producing various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level. <strong>New version's accuracy is improved by 10%</strong>. <br>  &nbsp &nbsp 
-            · Data ETL - Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted user-profile service to 30+ business partners. <strong> Achieved 0 to 20+ billion/day request</strong>.  <br>  &nbsp &nbsp 
+            · <em>Data mining</em>:&nbsp Using SQL/Python to conduct data mining and producing various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level. <strong>New version's accuracy is improved by 10%</strong>. <br>  &nbsp &nbsp 
+            · <em>Data ETL</em>:&nbsp Establishing and maintaining user-profile ETL pipelines to ensure data accuracy. Proactively promoted user-profile service to 30+ business partners. <strong> Achieved 0 to 20+ billion/day request</strong>.  <br>  &nbsp &nbsp 
             <br>  &nbsp &nbsp
             <strong>2.Data Analysis</strong>  <br>  &nbsp &nbsp 
-            · Data Visualization - Establishing key indicators to monitor user-profile coverage. <strong>Developed user-profile interactive dashboards with 300+ labels</strong>. Presented results to the recommendation team for decision making. <br>  &nbsp &nbsp 
-            · User Research - Conducting user research among app users. Collected over 10,000 questionnaires result. Measured feedback reliability and user-profile accuracy. Provided data insights for improvement of users' interest on items. <strong>Improved accuracy by 13%</strong>. <br>  &nbsp &nbsp
+            · <em>Data Visualization</em>:&nbsp Establishing key indicators to monitor user-profile coverage. <strong>Developed user-profile interactive dashboards with 300+ labels</strong>. Presented results to the recommendation team for decision making. <br>  &nbsp &nbsp 
+            · <em>User Research</em>:&nbsp Conducting user research among app users. Collected over 10,000 questionnaires result. Measured feedback reliability and user-profile accuracy. Provided data insights for improvement of users' interest on items. <strong>Improved accuracy by 13%</strong>. <br>  &nbsp &nbsp
             <br>  &nbsp &nbsp
             <strong>3.Data-platform Engineer</strong>  <br>  &nbsp &nbsp
-            · Process Digitalization - Optimizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, <strong>manpower is improved by 90%</strong>.<br>  &nbsp &nbsp
-            · Storage Upgradation - Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries. <strong>Improved QPS flow by 100 times</strong>. <br>  &nbsp &nbsp
-            · User Promotion - Promoted the data platform by sharing best practices within organization to over 10,000 users. Wrote documentation and presentation for data platform, with PV visits exceeding 50,000 and UV exceeding 10,000. <br>  &nbsp &nbsp
+            · <em>Process Digitalization</em>:&nbsp Optimizing user-profile evaluation project, which can automatically collect questionnaires and generate result, reducing process time from over 1 month to within 3 days, <strong>manpower is improved by 90%</strong>.<br>  &nbsp &nbsp
+            · <em>Storage Upgradation</em>:&nbsp Upgraded storage from MySQL to Elasticsearch, supporting high-speed queries. <strong>Improved QPS flow by 100 times</strong>. <br>  &nbsp &nbsp
+            · <em>User Promotion</em>:&nbsp Promoted the data platform by sharing best practices within organization to over 10,000 users. Wrote documentation and presentation for data platform, with PV visits exceeding 50,000 and UV exceeding 10,000. <br>  &nbsp &nbsp
             <br>  &nbsp &nbsp
-            <strong> Project Achivements:Responsible for the user-profile system, covering all business partners within the company. The request volume of user-profile service is over 90 billion/day, and the weekly active users of the user-profile platform are over 1,000. The project have generated revenue of million dollars.</strong> 
+            <strong> Project Achivements:&nbsp Responsible for the user-profile system, covering all business partners within the company. The request volume of user-profile service is over 90 billion/day, and the weekly active users of the user-profile platform are over 1,000. The project have generated revenue of million dollars.</strong> 
            
 
             # <font face="等线"><font size=3><strong>Project Overview:Responsible for establishing a one-stop user-profile system that includes datamining, data analysis and application.</strong></font></font> <br>  &nbsp &nbsp
