@@ -31,8 +31,7 @@ main: #简历主要内容，
     duration: "Sep 2018 - July 2021"
     tags:
     - 
-    sub: Master of Economics <br>  &nbsp &nbsp 
-         (International Business)
+    sub: Master of Economics  (International Business)
     # detail: Business Analytics, Supply Chain Management, Statistics, International Economics, Econometrics
             
   # - title: Esade
@@ -49,8 +48,7 @@ main: #简历主要内容，
             
   - title: Guangdong University of Foreign Studies
     duration: "Sep 2014 - July 2018"
-    sub: Bachelor of Economics <br>  &nbsp &nbsp
-        (International Economics and Trade)
+    sub: Bachelor of Economics  (International Economics and Trade)
     tags:
     - 
     # detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
