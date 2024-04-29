@@ -33,7 +33,7 @@ main: #简历主要内容，
     - 
     sub: Master of Economics <br>  &nbsp &nbsp 
          (International Business)
-    detail: Business Analytics, Supply Chain Management, Statistics, International Economics, Econometrics
+    # detail: Business Analytics, Supply Chain Management, Statistics, International Economics, Econometrics
             
   # - title: Esade
   #   # duration:
@@ -53,7 +53,7 @@ main: #简历主要内容，
         (International Economics and Trade)
     tags:
     - 
-    detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
+    # detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
     
     
     
@@ -91,9 +91,10 @@ main: #简历主要内容，
     # - SQL/Python
     # - Data visualization
     # - CI/CD Git
-    - Datamining user-profile
-    - Developing platform functions
-    - User education
+    - 
+    # - Datamining user-profile
+    # - Developing platform functions
+    # - User education
     # - 画像挖掘
     # - 标签开发
     # - 指标监控
