@@ -100,7 +100,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠)
-    detail: <strong>Project Overview:Responsible for establishing a one-stop user-profile system that includes datamining, data analysis and application.</strong> <br>  &nbsp &nbsp
+    detail: <strong>Project Overview:Responsible for establishing a one-stop user-profile system that includes datamining, data analysis and application.</strong> <br>  &nbsp &nbsp  <em>cat's meow</em>.
             <br>  &nbsp &nbsp
             <strong>1.Data Mining</strong> <br>  &nbsp &nbsp 
             · Using SQL/Python to conduct data mining and producing various user-profile with classification/regression models. The user-profile is widely used and has achieved industry-leading prediction level. <strong>New version's accuracy is improved by 10%</strong>. <br>  &nbsp &nbsp 
